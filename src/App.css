@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+table {
+  width: 500px;
+}
+
+table tr th {
+  background-color: aqua;
+}
+
+table tr td {
+  padding: 8px;
+}
